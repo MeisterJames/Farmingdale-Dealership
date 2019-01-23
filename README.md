@@ -12,3 +12,5 @@ password: james
 Employee Demo Account Name: William
 
 password: password
+
+![alt text](https://i.imgur.com/VTqXNvM.jpg)
