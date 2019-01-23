@@ -14,3 +14,9 @@ Employee Demo Account Name: William
 password: password
 
 ![alt text](https://i.imgur.com/VTqXNvM.jpg)
+
+![alt text](https://i.imgur.com/53ywWcQ.png)
+
+![alt text](https://i.imgur.com/XkpocVQ.png)
+
+![alt text](https://i.imgur.com/Iewtcnc.png)
