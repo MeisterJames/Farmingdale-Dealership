@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height: 142px; 
+}
+
+
+/*3 inputs from New_Car_Modal.php for Model / Mileage / Price width */
+
+
+#Input6 {
+	width: 370px;
+}
+#Input1 {
+	width: 370px;
+}
+#Input3 {
+	width: 370px;
+}
+#Input7 {
+	width: 370px;
+}
+
+#Input8 {
+	width: 370px;
+}
+
+#year {
+	width: 157px;
+}
+
+#fullName {
+	width: 157px;
+}
+
+
+#testing{
+		margin: 0 auto;
+    width:21%; /* changes width of the jumbotron */
+}
+
+#bgmiddle {
+  /* The image used */
+  /* background-image: url("https://i.imgur.com/3KeOmNd.jpg"); */
+  background-image: url("https://i.imgur.com/8oPPzLZ.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#bg {
+  /* The image used */
+  /* background-image: url("https://i.imgur.com/3KeOmNd.jpg"); */
+  background-image: url("https://i.imgur.com/8oPPzLZ.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#jtron {
+  /* The image used */
+  /* background-image: url("https://i.imgur.com/3KeOmNd.jpg"); */
+  background-color: #f2f2f2;
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tradebtn{ /* centers button */
+	    margin: 0 auto;
+    display: block;
+}
+
+#missionStatement {
+	text-align: center;
+	
+}
+
+#missionStatementText{
+    font-size:150%;
+font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height: 142px; 
+}
+
+.carInventory{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+#inputForm {
+	/* width: 600px; */
+	margin: auto;
+}
+
+#inputFormModify {
+	width: 200px;
+	margin: auto;
+}
+
+/*3 inputs from New_Car_Modal.php for Model / Mileage / Price width */
+#Input6 {
+	width: 370px;
+}
+#Input3 {
+	width: 370px;
+}
+#Input7 {
+	width: 370px;
+}
+
+#year {
+	width: 157px;
+}

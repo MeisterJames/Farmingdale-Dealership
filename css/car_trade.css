@@ -1,0 +1,23 @@
+#bgmiddle {
+  /* The image used */
+  /* background-image: url("https://i.imgur.com/3KeOmNd.jpg"); */
+  background-image: url("https://i.imgur.com/8oPPzLZ.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#missionStatement {
+	text-align: center;
+	
+}
+
+#missionStatementText{
+    font-size:150%;
+font-family: Arial, Helvetica, sans-serif;
+}

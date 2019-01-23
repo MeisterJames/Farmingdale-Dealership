@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height: 142px; 
+}
+
+
+/* centered columns styles */
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+#bgmiddle {
+  /* The image used */
+  /* background-image: url("https://i.imgur.com/3KeOmNd.jpg"); */
+  background-image: url("https://i.imgur.com/8oPPzLZ.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Fixes the horizontal scroll bar */
+#row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+/* changes width of the input box
+#datepicker{
+	width: 50%;
+}
+
+#timepicker{
+	width: 50%;
+}
+*/
