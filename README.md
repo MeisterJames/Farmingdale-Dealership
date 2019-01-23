@@ -6,7 +6,9 @@ This was a project for my final class at Farmingdale called "Senior Project" it 
 Demo Website: https://farmingdale-dealership.000webhostapp.com/index.php
 
 User Demo Account Name: James
+
 password: james
 
 Employee Demo Account Name: William
+
 password: password
